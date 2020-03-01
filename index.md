@@ -6,9 +6,9 @@ This is where the self-assessmet will go.
 
 ### Code Review
 
-This video is the code review I conducted.
+The following image is a link to the code review.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FqF6p_0CEmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![CS499 Code Review](https://imgur.com/QBLhuz7)](https://youtu.be/FqF6p_0CEmE "CS499 Code Review")
 
 ### Enhancement 1
 
