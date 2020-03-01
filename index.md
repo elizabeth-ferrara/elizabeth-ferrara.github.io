@@ -1,23 +1,27 @@
-## Welcome to my ePortfolio
-
-### Professional Self-Assessment
+## Professional Self-Assessment
 
 This is where the self-assessmet will go.
 
-### Code Review
+## Code Review
 
-The following image is a link to the code review.
+The following image is a link to the code review. This code review covers both the
 
 [![CS499 Code Review](https://i.imgur.com/QBLhuz7.png)](https://youtu.be/FqF6p_0CEmE "CS499 Code Review")
 
-### Enhancement 1
+## Artifact One
 
-Enhancement one stuff.
+### Enhancement 
 
-### Enhancemet 2
+### Narrative
 
-Enhancement two stuff.
+## Artifact Two
 
-### Enhancement 3
+### Enhancement
 
-Enhancement three stuff.
+### Narrative
+
+## Artifact Threee
+
+### Enhancement
+
+### Narrative
