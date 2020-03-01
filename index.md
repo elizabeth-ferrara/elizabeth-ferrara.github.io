@@ -30,9 +30,9 @@ The course objective that I planned to meet is CS-499-03. I believe that in expa
 
 ### Enhancement
 
-[Artifact Two Figure One](https://i.imgur.com/FQlqcIs.png)
+[![Artifact Two Figure One](https://i.imgur.com/FQlqcIs.png)](https://i.imgur.com/FQlqcIs.png "Artifact Two Figure One")
 
-[Artifact Two Figure Two](https://i.imgur.com/A01oHNb.png)
+[![Artifact Two Figure Two](https://i.imgur.com/A01oHNb.png)](https://i.imgur.com/A01oHNb.png "Artifact Two Figure Two")
 
 ## Artifact Threee
 
