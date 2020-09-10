@@ -50,7 +50,7 @@
 [![Image Thirteen](https://i.imgur.com/A01oHNb.png)](https://i.imgur.com/A01oHNb.png "Image Thirteen")
 
 [![Image Fourteen](https://imgur.com/AjbbVAV.png)](https://imgur.com/AjbbVAV.png "Image Fourteen")
-[![Image Fifteen](https://imgur.com/2h7nuV3.png))](https://imgur.com/2h7nuV3.png) "Image Fifteen")
+[![Image Fifteen](https://imgur.com/2h7nuV3.png)](https://imgur.com/2h7nuV3.png) "Image Fifteen")
 [![Image Sixteen](https://imgur.com/qLYmQhY.png)](https://imgur.com/qLYmQhY.png "Image Sixteen")
 [![Image Seventeen](https://imgur.com/YcJcauY.png)](https://imgur.com/YcJcauY.png "Image Seventeen")
 [![Image Eighteen](https://imgur.com/rKBFAwr.png)](https://imgur.com/rKBFAwr "Image Eighteen")
